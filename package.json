@@ -2,7 +2,7 @@
   "name": "numbergame",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://<Reshma0711>.github.io/<repository-NumberGame>",
+  "homepage":  "https://reshma0711.github.io/NumberGame",
   "type": "module",
   "scripts": {
     "dev": "vite",
